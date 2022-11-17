@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning basics of backend and attempting to improve in frontend 
 - 💞️ I’m looking to collaborate on (not sure yet 😁) 
-- 📫 How to reach me: es_christos1@hotmail.com
+- 📫 How to reach me: eschristos1@gmail.com
 
 <!---
 ChrisEski/ChrisEski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
